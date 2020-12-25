@@ -1,0 +1,16 @@
+.districtName {
+    width: 25%;
+    font-weight: 600;
+    font-variant: all-small-caps;
+    text-align: left;
+}
+.statesPage {
+    margin: 10%;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin: 4% 10%;
+    background: white;
+    width: 80%;
+}
